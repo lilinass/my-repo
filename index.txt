@@ -3,3 +3,5 @@ Premier tests
 Salute
 
 Premier test
+
+Ligne de conflit
