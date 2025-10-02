@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Premier tests
 Salute
+=======
+Premier test
+>>>>>>> f1039bfb0269ab066f6935d2eedec66f4ee44617
